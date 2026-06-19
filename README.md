@@ -37,3 +37,7 @@ Taif University
 ## Disclaimer
 
 This repository showcases the project structure, technologies, and development process used during the graduation project.
+## Documentation
+
+- [Project Report](documentation/ASTRA_Project_Report.pdf)
+- [Project Presentation](documentation/ASTRA_Project_Presentation.pdf) 
