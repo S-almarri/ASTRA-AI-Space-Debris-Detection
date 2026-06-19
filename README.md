@@ -87,9 +87,9 @@ ASTRA includes a real-time monitoring dashboard for monitoring detections, navig
 
 ## Documentation
 
-* [Project Report](documentation/ASTRA_Project_Report.pdf)
-* [Project Presentation](documentation/ASTRA_Project_Presentation.pdf)
-
+- [Project Presentation](documentation/ASTRA%20Graduation%20Project%202.pdf)
+- [Project Report](documentation/ASTRA_Project_Report.pdf)
+  
 ## Academic Information
 
 Bachelor's Degree in Computer Science
